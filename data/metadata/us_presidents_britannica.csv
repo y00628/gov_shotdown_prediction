@@ -1,0 +1,48 @@
+president_number,name,birthplace,party,term_of_office,term_start,term_end
+1,George Washington,Virginia,Federalist,1789–97,1789,1797
+2,John Adams,Massachusetts,Federalist,1797–1801,1797,1801
+3,Thomas Jefferson,Virginia,Democratic-Republican,1801–09,1801,1809
+4,James Madison,Virginia,Democratic-Republican,1809–17,1809,1817
+5,James Monroe,Virginia,Democratic-Republican,1817–25,1817,1825
+6,John Quincy Adams,Massachusetts,National Republican,1825–29,1825,1829
+7,Andrew Jackson,South Carolina,Democratic,1829–37,1829,1837
+8,Martin Van Buren,New York,Democratic,1837–41,1837,1841
+9,William Henry Harrison,Virginia,Whig,1841*,1841,1841
+10,John Tyler,Virginia,Whig,1841–45,1841,1845
+11,James K. Polk,North Carolina,Democratic,1845–49,1845,1849
+12,Zachary Taylor,Virginia,Whig,1849–50*,1849,1850
+13,Millard Fillmore,New York,Whig,1850–53,1850,1853
+14,Franklin Pierce,New Hampshire,Democratic,1853–57,1853,1857
+15,James Buchanan,Pennsylvania,Democratic,1857–61,1857,1861
+16,Abraham Lincoln,Kentucky,Republican,1861–65*,1861,1865
+17,Andrew Johnson,North Carolina,Democratic (Union),1865–69,1865,1869
+18,Ulysses S. Grant,Ohio,Republican,1869–77,1869,1877
+19,Rutherford B. Hayes,Ohio,Republican,1877–81,1877,1881
+20,James A. Garfield,Ohio,Republican,1881*,1881,1881
+21,Chester A. Arthur,Vermont,Republican,1881–85,1881,1885
+22,Grover Cleveland,New Jersey,Democratic,1885–89,1885,1889
+23,Benjamin Harrison,Ohio,Republican,1889–93,1889,1893
+24,Grover Cleveland,New Jersey,Democratic,1893–97,1893,1897
+25,William McKinley,Ohio,Republican,1897–1901*,1897,1901
+26,Theodore Roosevelt,New York,Republican,1901–09,1901,1909
+27,William Howard Taft,Ohio,Republican,1909–13,1909,1913
+28,Woodrow Wilson,Virginia,Democratic,1913–21,1913,1921
+29,Warren G. Harding,Ohio,Republican,1921–23*,1921,1923
+30,Calvin Coolidge,Vermont,Republican,1923–29,1923,1929
+31,Herbert Hoover,Iowa,Republican,1929–33,1929,1933
+32,Franklin D. Roosevelt,New York,Democratic,1933–45*,1933,1945
+33,Harry S. Truman,Missouri,Democratic,1945–53,1945,1953
+34,Dwight D. Eisenhower,Texas,Republican,1953–61,1953,1961
+35,John F. Kennedy,Massachusetts,Democratic,1961–63*,1961,1963
+36,Lyndon B. Johnson,Texas,Democratic,1963–69,1963,1969
+37,Richard M. Nixon,California,Republican,1969–74**,1969,1974
+38,Gerald R. Ford,Nebraska,Republican,1974–77,1974,1977
+39,Jimmy Carter,Georgia,Democratic,1977–81,1977,1981
+40,Ronald Reagan,Illinois,Republican,1981–89,1981,1989
+41,George Bush,Massachusetts,Republican,1989–93,1989,1993
+42,Bill Clinton,Arkansas,Democratic,1993–2001,1993,2001
+43,George W. Bush,Connecticut,Republican,2001–09,2001,2009
+44,Barack Obama,Hawaii,Democratic,2009–17,2009,2017
+45,Donald Trump,New York,Republican,2017–21,2017,2021
+46,Joe Biden,Pennsylvania,Democratic,2021–2025,2021,2025
+47,Donald Trump,New York,Republican,2025–,2025,2025
